@@ -1,0 +1,89 @@
+
+[
+    {
+        "logoImageName" : "",
+        "titleName" : "Tattoo",
+        "bgColor" : "",
+        "items" : [
+            {
+                "thumbnail" : "tattoo_1",
+                "big" : "tattoo_1_big",
+                "isPro" : false
+            },
+            {
+                "thumbnail" : "tattoo_2",
+                "big" : "tattoo_2_big",
+                "isPro" : false
+            },
+            
+            {
+                "thumbnail" : "tattoo_4",
+                "big" : "tattoo_4_big",
+                "isPro" : true
+            },
+            {
+                "thumbnail" : "tattoo_3",
+                "big" : "tattoo_3_big",
+                "isPro" : true
+            },
+            {
+                "thumbnail" : "tattoo_5",
+                "big" : "tattoo_5_big",
+                "isPro" : true
+            },
+            
+            {
+                "thumbnail" : "tattoo_7",
+                "big" : "tattoo_7_big",
+                "isPro" : true
+            },
+            {
+                "thumbnail" : "tattoo_8",
+                "big" : "tattoo_8_big",
+                "isPro" : true
+            },
+            
+            {
+                "thumbnail" : "tattoo_10",
+                "big" : "tattoo_10_big",
+                "isPro" : true
+            },
+            {
+                "thumbnail" : "tattoo_13",
+                "big" : "tattoo_13_big",
+                "isPro" : true
+            },
+            {
+                "thumbnail" : "tattoo_6",
+                "big" : "tattoo_6_big",
+                "isPro" : true
+            },
+            {
+                "thumbnail" : "tattoo_9",
+                "big" : "tattoo_9_big",
+                "isPro" : true
+            },
+            {
+                "thumbnail" : "tattoo_14",
+                "big" : "tattoo_14_big",
+                "isPro" : true
+            },
+            {
+                "thumbnail" : "tattoo_11",
+                "big" : "tattoo_11_big",
+                "isPro" : true
+            },
+            {
+                "thumbnail" : "tattoo_12",
+                "big" : "tattoo_12_big",
+                "isPro" : true
+            },
+            
+            {
+                "thumbnail" : "tattoo_15",
+                "big" : "tattoo_15_big",
+                "isPro" : true
+            }
+        ]
+    }
+]

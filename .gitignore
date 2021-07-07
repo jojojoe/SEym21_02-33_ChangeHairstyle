@@ -1,0 +1,7 @@
+CyHymChangeHair.xcodeproj/xcuserdata/
+CyHymChangeHair.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+CyHymChangeHair.xcodeproj/project.xcworkspace/xcuserdata/

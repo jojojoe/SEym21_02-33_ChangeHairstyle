@@ -1,0 +1,385 @@
+
+[
+    {
+        
+        "logoImageName" : "home_daily_ic",
+        "titleName" : "Interesting",
+        "bgColor" : "#43486E",
+        "items" : [
+            {
+                "thumbnail" : "man4_1",
+                "big" : "man4_1_big",
+                "isMan" : true,
+                "isMan" : true,
+                "isPro" : false
+            },
+            {
+                "thumbnail" : "man4_2",
+                "big" : "man4_2_big",
+                "isMan" : true,
+                "isPro" : false
+            },
+            {
+                "thumbnail" : "man4_3",
+                "big" : "man4_3_big",
+                "isMan" : true,
+                "isPro" : true
+            },
+            {
+                "thumbnail" : "man4_4",
+                "big" : "man4_4_big",
+                "isMan" : true,
+                "isPro" : true
+            },
+            {
+                "thumbnail" : "man4_5",
+                "big" : "man4_5_big",
+                "isMan" : true,
+                "isPro" : true
+            },
+            {
+                "thumbnail" : "man4_6",
+                "big" : "man4_6_big",
+                "isMan" : true,
+                "isPro" : true
+            },
+            {
+                "thumbnail" : "man4_7",
+                "big" : "man4_7_big",
+                "isMan" : true,
+                "isPro" : true
+            },
+            {
+                "thumbnail" : "man4_8",
+                "big" : "man4_8_big",
+                "isMan" : true,
+                "isPro" : true
+            },
+            {
+                "thumbnail" : "man4_9",
+                "big" : "man4_9_big",
+                "isMan" : true,
+                "isPro" : true
+            },
+            {
+                "thumbnail" : "man4_10",
+                "big" : "man4_10_big",
+                "isMan" : true,
+                "isPro" : true
+            },
+            {
+                "thumbnail" : "man4_11",
+                "big" : "man4_11_big",
+                "isMan" : true,
+                "isPro" : true
+            },
+            {
+                "thumbnail" : "man4_12",
+                "big" : "man4_12_big",
+                "isMan" : true,
+                "isPro" : true
+            },
+            {
+                "thumbnail" : "man4_13",
+                "big" : "man4_13_big",
+                "isMan" : true,
+                "isPro" : true
+            },
+            {
+                "thumbnail" : "man4_14",
+                "big" : "man4_14_big",
+                "isMan" : true,
+                "isPro" : true
+            },
+            {
+                "thumbnail" : "man4_15",
+                "big" : "man4_15_big",
+                "isMan" : true,
+                "isPro" : true
+            }
+        ]
+    },
+    
+    {
+        "logoImageName" : "home_fancy_ic",
+        "titleName" : "Handsome",
+        "bgColor" : "#72C9FF",
+        "items" : [
+            {
+                "thumbnail" : "fancy_1",
+                "big" : "fancy_1_big",
+                "isMan" : true,
+                "isPro" : false
+            },
+            {
+                "thumbnail" : "fancy_2",
+                "big" : "fancy_2_big",
+                "isMan" : true,
+                "isPro" : false
+            },
+            {
+                "thumbnail" : "fancy_3",
+                "big" : "fancy_3_big",
+                "isMan" : true,
+                "isPro" : true
+            },
+            {
+                "thumbnail" : "fancy_4",
+                "big" : "fancy_4_big",
+                "isMan" : true,
+                "isPro" : true
+            },
+            {
+                "thumbnail" : "fancy_5",
+                "big" : "fancy_5_big",
+                "isMan" : true,
+                "isPro" : true
+            },
+            {
+                "thumbnail" : "fancy_6",
+                "big" : "fancy_6_big",
+                "isMan" : true,
+                "isPro" : true
+            },
+            {
+                "thumbnail" : "fancy_7",
+                "big" : "fancy_7_big",
+                "isMan" : true,
+                "isPro" : true
+            },
+            {
+                "thumbnail" : "fancy_8",
+                "big" : "fancy_8_big",
+                "isMan" : true,
+                "isPro" : true
+            },
+            {
+                "thumbnail" : "fancy_9",
+                "big" : "fancy_9_big",
+                "isMan" : true,
+                "isPro" : true
+            },
+            {
+                "thumbnail" : "fancy_10",
+                "big" : "fancy_10_big",
+                "isMan" : true,
+                "isPro" : true
+            },
+            {
+                "thumbnail" : "fancy_11",
+                "big" : "fancy_11_big",
+                "isMan" : true,
+                "isPro" : true
+            },
+            {
+                "thumbnail" : "fancy_12",
+                "big" : "fancy_12_big",
+                "isMan" : true,
+                "isPro" : true
+            }
+        ]
+    },
+    {
+        "logoImageName" : "home_daily_ic",
+        "titleName" : "Young",
+        "bgColor" : "#43486E",
+        "items" : [
+            {
+                "thumbnail" : "daily_style_1",
+                "big" : "daily_style_1_big",
+                "isMan" : true,
+                "isMan" : true,
+                "isPro" : false
+            },
+            {
+                "thumbnail" : "daily_style_2",
+                "big" : "daily_style_2_big",
+                "isMan" : true,
+                "isPro" : false
+            },
+            {
+                "thumbnail" : "daily_style_3",
+                "big" : "daily_style_3_big",
+                "isMan" : true,
+                "isPro" : true
+            },
+            {
+                "thumbnail" : "daily_style_4",
+                "big" : "daily_style_4_big",
+                "isMan" : true,
+                "isPro" : true
+            },
+            {
+                "thumbnail" : "daily_style_5",
+                "big" : "daily_style_5_big",
+                "isMan" : true,
+                "isPro" : true
+            },
+            {
+                "thumbnail" : "daily_style_6",
+                "big" : "daily_style_6_big",
+                "isMan" : true,
+                "isPro" : true
+            },
+            {
+                "thumbnail" : "daily_style_7",
+                "big" : "daily_style_7_big",
+                "isMan" : true,
+                "isPro" : true
+            },
+            {
+                "thumbnail" : "daily_style_8",
+                "big" : "daily_style_8_big",
+                "isMan" : true,
+                "isPro" : true
+            },
+            {
+                "thumbnail" : "daily_style_9",
+                "big" : "daily_style_9_big",
+                "isMan" : true,
+                "isPro" : true
+            },
+            {
+                "thumbnail" : "daily_style_10",
+                "big" : "daily_style_10_big",
+                "isMan" : true,
+                "isPro" : true
+            },
+            {
+                "thumbnail" : "daily_style_11",
+                "big" : "daily_style_11_big",
+                "isMan" : true,
+                "isPro" : true
+            },
+            {
+                "thumbnail" : "daily_style_12",
+                "big" : "daily_style_12_big",
+                "isMan" : true,
+                "isPro" : true
+            },
+            {
+                "thumbnail" : "daily_style_13",
+                "big" : "daily_style_13_big",
+                "isMan" : true,
+                "isPro" : true
+            },
+            {
+                "thumbnail" : "daily_style_14",
+                "big" : "daily_style_14_big",
+                "isMan" : true,
+                "isPro" : true
+            },
+            {
+                "thumbnail" : "daily_style_15",
+                "big" : "daily_style_15_big",
+                "isMan" : true,
+                "isPro" : true
+            },
+            {
+                "thumbnail" : "daily_style_16",
+                "big" : "daily_style_16_big",
+                "isMan" : true,
+                "isPro" : true
+            }
+        ]
+    },
+    {
+        "logoImageName" : "home_handsome_ic",
+        "titleName" : "Attractive",
+        "bgColor" : "#FE4298",
+        "items" : [
+            {
+                "thumbnail" : "handsome_1",
+                "big" : "handsome_1_big",
+                "isMan" : true,
+                "isPro" : false
+            },
+            {
+                "thumbnail" : "handsome_2",
+                "big" : "handsome_2_big",
+                "isMan" : true,
+                "isPro" : false
+            },
+            {
+                "thumbnail" : "handsome_3",
+                "big" : "handsome_3_big",
+                "isMan" : true,
+                "isPro" : true
+            },
+            {
+                "thumbnail" : "handsome_4",
+                "big" : "handsome_4_big",
+                "isMan" : true,
+                "isPro" : true
+            },
+            {
+                "thumbnail" : "handsome_5",
+                "big" : "handsome_5_big",
+                "isMan" : true,
+                "isPro" : true
+            },
+            {
+                "thumbnail" : "handsome_6",
+                "big" : "handsome_6_big",
+                "isMan" : true,
+                "isPro" : true
+            },
+            {
+                "thumbnail" : "handsome_7",
+                "big" : "handsome_7_big",
+                "isMan" : true,
+                "isPro" : true
+            },
+            {
+                "thumbnail" : "handsome_8",
+                "big" : "handsome_8_big",
+                "isMan" : true,
+                "isPro" : true
+            },
+            {
+                "thumbnail" : "handsome_13",
+                "big" : "handsome_13_big",
+                "isMan" : true,
+                "isPro" : true
+            },
+            {
+                "thumbnail" : "handsome_9",
+                "big" : "handsome_9_big",
+                "isMan" : true,
+                "isPro" : true
+            },
+            
+            {
+                "thumbnail" : "handsome_11",
+                "big" : "handsome_11_big",
+                "isMan" : true,
+                "isPro" : true
+            },
+            {
+                "thumbnail" : "handsome_12",
+                "big" : "handsome_12_big",
+                "isMan" : true,
+                "isPro" : true
+            },
+            {
+                "thumbnail" : "handsome_10",
+                "big" : "handsome_10_big",
+                "isMan" : true,
+                "isPro" : true
+            },
+            {
+                "thumbnail" : "handsome_14",
+                "big" : "handsome_14_big",
+                "isMan" : true,
+                "isPro" : true
+            },
+            {
+                "thumbnail" : "handsome_15",
+                "big" : "handsome_15_big",
+                "isMan" : true,
+                "isPro" : true
+            }
+        ]
+    }
+    
+]
